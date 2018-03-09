@@ -1,15 +1,13 @@
 /*
  *@file   M18E07a.java
  *@title  M18E07a.
- *@author David Díaz Jiménez
- *@author Andrés Rojas Ortega
- *@email  ddj00003@red.ujaen.es
- *@email  aro00015@red.ujaen.es
+ *@author David Díaz 
+ *@author Andrés Rojas 
  *@date   2018/02/14
  *
  * NoobMouse. A intelligent agent for MouseRun.
- * Copyright (C) 2018  David Díaz Jiménez,
- *                     Andrés Rojas Ortega.
+ * Copyright (C) 2018  David Díaz 
+ *                     Andrés Rojas
  * 
  * NoobMouse is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
